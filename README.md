@@ -1,2 +1,2 @@
 # 機材管理システム
-https://streamlit.io/
+https://share.streamlit.io/
